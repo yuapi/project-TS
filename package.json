@@ -1,0 +1,19 @@
+{
+  "name": "project-ts",
+  "version": "0.0.1",
+  "description": "AI based Text-to-Speech discord application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuapi/project-TS.git"
+  },
+  "author": "yuapi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuapi/project-TS/issues"
+  },
+  "homepage": "https://github.com/yuapi/project-TS#readme"
+}
